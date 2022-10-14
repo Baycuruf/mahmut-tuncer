@@ -1,0 +1,1 @@
+console.log("feryadım yaşarken ölenler için");

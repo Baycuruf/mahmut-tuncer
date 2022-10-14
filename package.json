@@ -1,0 +1,29 @@
+{
+  "name": "mahmut-tuncer",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mahmut": "echo 'Mein name ist mahmut'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Bay Curuf",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.6.5",
+    "nodemailer": "^6.8.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Baycuruf/mahmut-tuncer.git"
+  }
+}
